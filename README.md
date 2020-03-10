@@ -1,4 +1,5 @@
 # aula_01_2020
+<!DOCTYPE html>
 <html>
     <head>
         <title>DJ JANCARLO SC</title>
